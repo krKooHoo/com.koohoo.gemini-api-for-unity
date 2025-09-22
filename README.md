@@ -33,7 +33,7 @@ Unity Package Manager(UPM)를 통해 Git URL로 설치할 수 있습니다.
 3.  아래의 URL을 입력하고 'Add' 버튼을 누릅니다.
 
     ```
-    [https://github.com/krKooHoo/com.koohoo.gemini-api-for-unity.git](https://github.com/krKooHoo/com.koohoo.gemini-api-for-unity.git)
+    https://github.com/krKooHoo/com.koohoo.gemini-api-for-unity.git
     ```
 
 4.  설치가 완료되면 메뉴에 `Tools/Gemini Image Generator`가 추가됩니다.
