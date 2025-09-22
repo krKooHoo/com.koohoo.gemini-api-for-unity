@@ -1,6 +1,6 @@
 {
   "name": "com.koohoo.gemini-api-for-unity",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "displayName": "Gemini API For Unity",
   "description": "A Unity Editor tool to generate and edit images using the Google Gemini API. Provides a user-friendly interface for text-to-image and image-editing workflows directly within the Unity Editor.",
   "unity": "2022.3",
