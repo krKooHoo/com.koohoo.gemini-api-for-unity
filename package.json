@@ -1,21 +1,28 @@
 {
   "name": "com.koohoo.gemini-api-for-unity",
   "version": "1.0.0",
-  "displayName": "KooHoo Awesome Package",
-  "description": "이 패키지는 이러이러한 멋진 기능을 제공합니다.",
+  "displayName": "Gemini API For Unity",
+  "description": "A Unity Editor tool to generate and edit images using the Google Gemini API. Provides a user-friendly interface for text-to-image and image-editing workflows directly within the Unity Editor.",
   "unity": "2022.3",
-  "unityRelease": "0f1",
-  "documentationUrl": "https://github.com/YourUsername/gemini-api-for-unity/blob/main/README.md",
-  "changelogUrl": "https://github.com/YourUsername/gemini-api-for-unity/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/YourUsername/gemini-api-for-unity/blob/main/LICENSE.md",
-  "keywords": [
-    "unity",
-    "tool",
-    "koohoo"
-  ],
   "author": {
     "name": "KooHoo",
     "email": "koohoo0926@gmail.com",
-    "url": "https://github.com/YourUsername"
+    "url": "https://github.com/krKooHoo"
+  },
+  "keywords": [
+    "gemini",
+    "google",
+    "ai",
+    "image generation",
+    "editor",
+    "tool",
+    "api"
+  ],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krKooHoo/com.koohoo.gemini-api-for-unity.git"
   }
 }
