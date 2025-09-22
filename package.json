@@ -1,0 +1,21 @@
+{
+  "name": "com.koohoo.gemini-api-for-unity",
+  "version": "1.0.0",
+  "displayName": "KooHoo Awesome Package",
+  "description": "이 패키지는 이러이러한 멋진 기능을 제공합니다.",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/YourUsername/gemini-api-for-unity/blob/main/README.md",
+  "changelogUrl": "https://github.com/YourUsername/gemini-api-for-unity/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/YourUsername/gemini-api-for-unity/blob/main/LICENSE.md",
+  "keywords": [
+    "unity",
+    "tool",
+    "koohoo"
+  ],
+  "author": {
+    "name": "KooHoo",
+    "email": "koohoo0926@gmail.com",
+    "url": "https://github.com/YourUsername"
+  }
+}
